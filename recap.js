@@ -15,6 +15,6 @@ console.log(biggest);
 const myNotes = `He is a ${matha}. `;
 console.log(myNotes);
 
-// 4arrow function
+// 4.arrow function
 const square = x => x * x;
 console.log(square(8));
